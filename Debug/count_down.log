@@ -1,0 +1,23 @@
+﻿  Main.cpp
+G:\Git\New_Year\Main.cpp(46,26): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+G:\Git\New_Year\Main.cpp(80,95): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Git\New_Year\Main.cpp(80,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Git\New_Year\Main.cpp(103,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Git\New_Year\Main.cpp(103,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  count_down.vcxproj -> G:\Git\New_Year\Debug\count_down.exe

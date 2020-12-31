@@ -1,0 +1,4 @@
+E:\c++\sfml\sfml projects\count_down\Debug\count_down.exe
+E:\c++\sfml\sfml projects\count_down\Debug\count_down.pdb
+G:\Git\New_Year\Debug\count_down.exe
+G:\Git\New_Year\Debug\count_down.pdb
